@@ -12,6 +12,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | v2.11.0 | [`v2.11.0`](https://github.com/chainguard-actions/vitest-coverage-report-action/tree/v2.11.0) | — |
 | v2.11.1 | [`v2.11.1`](https://github.com/chainguard-actions/vitest-coverage-report-action/tree/v2.11.1) | — |
 | v2.11.2 | [`v2.11.2`](https://github.com/chainguard-actions/vitest-coverage-report-action/tree/v2.11.2) | — |
+| v2.9.3 | [`v2.9.3`](https://github.com/chainguard-actions/vitest-coverage-report-action/tree/v2.9.3) | — |
 
 ## Privacy
 
